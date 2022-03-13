@@ -1,7 +1,7 @@
 # Passenger Counter App
 
 ## Description
-> This is an app that counts passengers at the station as they board the train.
+This is an app that counts passengers at the station as they board the train.
 
 ## Setup Instructions
 1. Click on the live link to view the website
@@ -15,4 +15,4 @@
 
 [![Preview](Images/Picsum.png)](link)
 
-==Note that this is practice based on lessons from [Per Harald Borgen](https://scrimba.com/learn/learnjavascript)==
+> Note that this is practice based on lessons from [Per Harald Borgen](https://scrimba.com/learn/learnjavascript)
