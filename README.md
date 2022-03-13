@@ -15,4 +15,4 @@
 
 [![Preview](Images/Picsum.png)](link)
 
-[^1]: ==Note that this is practice based on lessons from [Per Harald Borgen](https://scrimba.com/learn/learnjavascript)==
+==Note that this is practice based on lessons from [Per Harald Borgen](https://scrimba.com/learn/learnjavascript)==
