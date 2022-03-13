@@ -13,6 +13,6 @@ This is an app that counts passengers at the station as they board the train.
 - CSS
 - JavaScript
 
-[![Preview](Images/Picsum.png)](link)
+[![Preview](Images/Picsum.png)](https://charawey-x.github.io/passenger_counter_app/)
 
 > Note that this is practice based on lessons from [Per Harald Borgen](https://scrimba.com/learn/learnjavascript)
